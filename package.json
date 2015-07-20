@@ -1,0 +1,12 @@
+{
+  "name": "BSplineANN",
+  "version": "1.0.0",
+  "description": "BSpline Artificial Neural Networks",
+  "main": "./lib/bsplineann",
+  "scripts": {},
+  "author": "Manuel de la Torre",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
