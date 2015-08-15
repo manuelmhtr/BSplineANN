@@ -1,6 +1,6 @@
 {
   "name": "bsplineann",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BSpline Artificial Neural Networks",
   "main": "./lib/bsplineann",
   "scripts": {},
