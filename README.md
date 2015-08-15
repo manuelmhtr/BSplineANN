@@ -12,9 +12,9 @@ npm install --save bsplineann
 
 ```
 // Require the library
-var BSplineANN = require("./../lib/bsplineann");
+var BSplineANN = require('bsplineann');
 
-// Create the vectors that will
+// Create the vectors that will define the splines
 var splines = [
   [
     [-0.3,-0.1,0.1,0.3],
